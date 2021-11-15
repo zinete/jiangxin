@@ -495,11 +495,10 @@ body {
   font-size: 42px;
   color: #043b46;
   text-align: center;
-  margin-bottom: 36px;
   display: block;
   top: 50%;
   margin-top: -42px;
-  width: 80%;
+  width: 75%;
 }
 .taiji_des {
   margin-top: 60px;
