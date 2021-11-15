@@ -483,7 +483,9 @@ body {
   font-size: 42px;
   color: #043b46;
   text-align: center;
-  margin-bottom: 36px;
+  display: block;
+  top: 50%;
+  margin-top: -42px;
   word-break: break-all;
 }
 
@@ -494,8 +496,10 @@ body {
   color: #043b46;
   text-align: center;
   margin-bottom: 36px;
-  word-break: break-all;
-  max-width: 50%;
+  display: block;
+  top: 50%;
+  margin-top: -42px;
+  width: 80%;
 }
 .taiji_des {
   margin-top: 60px;
