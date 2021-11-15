@@ -366,6 +366,7 @@ body {
 }
 .bg_img_title {
   width: 90%;
+  height: 100%;
 }
 .img_zs2_body {
   position: relative;
